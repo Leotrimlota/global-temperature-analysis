@@ -1,0 +1,6 @@
+pandas
+plotly
+statsmodels
+meteostat
+numpy
+kaleido
